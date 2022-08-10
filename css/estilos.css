@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2017/12/24/14/27/geometric-3037028_1280.png");
+    background-size: 100%;
+    font-family: 'Dosis', sans-serif;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: midnightblue;
+    text-decoration: none;
+    
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .site-subtitle,
+  .site-title {
+    color: midnightblue;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+   
+  }
+  
